@@ -69,7 +69,8 @@ Contract Name: drug-development-fund
 Deployment Transaction: [To be added]
 Deployment Block: [To be added]
 Contract Owner: [To be added]
-<img width="466" height="732" alt="image" src="https://github.com/user-attachments/assets/8ff36ec1-4174-438a-8723-878fcbed74ae" />
+
+<img width="1890" height="850" alt="Screenshot 2025-08-26 124151" src="https://github.com/user-attachments/assets/9a49a843-6f3c-4969-b3db-db1fce64bc38" />
 
 
 Note: This project is designed for educational and demonstration purposes. Always conduct thorough security audits before deploying to mainnet with real funds. Pharmaceutical investments carry significant risks and regulatory considerations.
