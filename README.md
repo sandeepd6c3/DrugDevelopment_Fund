@@ -65,11 +65,11 @@ contract id STSSK6K0A25D20AYQVSQQQ8R70H6EXG676S9HSWE.DrugDevelopmentFund
 *Contract deployment details will be updated here upon mainnet deployment*
 
 **Network**: Stacks Mainnet
-**Contract Address**: [To be added after deployment]
+**Contract Address**: 
 **Contract Name**: drug-development-fund
-**Deployment Transaction**: [To be added]
-**Deployment Block**: [To be added]
-**Contract Owner**: [To be added]
+**Deployment Transaction**: 
+**Deployment Block**: 
+**Contract Owner**: 
 
 ---
 
